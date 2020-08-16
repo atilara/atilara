@@ -7,12 +7,9 @@
 
 My name is Átila Rodrigues, and I'm currently studying Computer Science at Federal Rural University of Pernambuco (UFRPE).
 
-🔭 I’m currently focusing on university and research opportunities
-
-🌱 I’m currently learning C, front-end development, JavaScript and ReactJS
-
-📫 How to reach me: you can contact me through my profile on linkedin or emailing me
-
+🔭 I’m currently focusing on university and research opportunities <br />
+🌱 I’m currently learning C, front-end development, JavaScript and ReactJS <br />
+📫 How to reach me: you can contact me through my profile on linkedin or emailing me <br />
 💬 Ask me about: tech, music, tv shows and books
 
 ```C
