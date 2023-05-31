@@ -10,5 +10,3 @@ I'm a fullstack developer with experience in ReactJS and NodeJS using TypeScript
 My journey with technology began at the Miguel Batista State Technical School, where I studied systems development as a technician. I've been passionate about programming and problem solving ever since.
 
 I am skilled at working with others, able to communicate effectively, and practical when it comes to assessing my abilities and what I can accomplish.
-
-<img src="https://github-readme-stats.vercel.app/api?username=atilara&count_private=true&show_icons=true&theme=react" alt="Átila Rodrigues' GitHub Stats">
